@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning information technology.
+🌱 I’m currently learning information security and some subjects in information technology.
 
 <center>
 
