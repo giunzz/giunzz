@@ -1,14 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/giunzz/count.svg" />
+</p>
+
+## About me
 
 🌱 I’m currently learning IoT - security and some subjects in information technology.
 
-<center>
+![Giunzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz\&show_icons=true\&theme=radical)
 
-
-
-
-</center>	
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact\&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
