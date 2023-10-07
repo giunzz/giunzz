@@ -12,7 +12,6 @@
 🌱 I’m currently learning IoT - security and some subjects in information technology.
 
 ![Giunzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz\&show_icons=true\&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact\&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
