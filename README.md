@@ -9,11 +9,12 @@
 
 ## About me
 
-🌱 I’m currently learning IoT - Embedded Systems and some subjects in information technology.
+🌱 I’m Dung, a sophormore at University of  Technology and Education majoring in IoT and Embedded Systems. I am interested in some subjects in information technology and FPGA  designing
 
 ![giunzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact\&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
