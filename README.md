@@ -1,25 +1,25 @@
-# Hi there 👋
+# Hello! I'm Dung 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![Hello World](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hello-world.svg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://img.shields.io/github/watchers/giunzz/giunzz?style=flat&color=blue" />
-</p>
+## 🔭 I’m currently working on
+- IoT systems
+- Embedded systems programming
+- FPGA design
 
-## About me
+## 🌱 I’m currently learning
+- AI and Machine Learning
+- Advanced digital logic design
 
-🌱 I’m Dung, a sophormore at University of  Technology and Education majoring in IoT and Embedded Systems. I am interested in some subjects in information technology and FPGA  designing
+## 🚀 Skills & Technologies
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-black?style=flat&logo=verilog&logoColor=white)
 
-![giunzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz&show_icons=true&theme=radical)
+## 🏆 GitHub Stats
+![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact\&theme=radical)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dunghoang0401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dunghoang0401" height="30" width="40" /></a>
-<a href="https://www.facebook.com/DungHoang04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lanahoang237" height="30" width="40" /></a>
-</p>
-
----
+## 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/dunghoang0401)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook)](https://www.facebook.com/DungHoang04/)
