@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/giunzz/count.svg" />
+  <img src="https://img.shields.io/github/watchers/giunzz/giunzz?style=flat&color=blue" />
 </p>
 
 ## About me
