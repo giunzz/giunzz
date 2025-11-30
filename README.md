@@ -1,19 +1,17 @@
 # Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-## About me
-🌱 I’m Dung, a sophormore at University of  Technology and Education majoring in IoT and Embedded Systems. I am interested in some subjects in information technology and FPGA  designing
-
-## 🚀 Skills & Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=46F7A7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dung+👋;Welcome+to+my+GitHub+Profile!">
+</p>
 
 
+## 👤 About Me  
 
-## 🏆 GitHub Stats
-![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=giunzz&show_icons=true&theme=radical)
+🌱 I’m Dung, a third-year majoring in IoT & Embedded Systems at the University of Technology and Education.  
+
+💡 Passionate about Wireless communication, Embedded programming, FPGA design, and IT technologies.
 
 
-## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/dunghoang0401)
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/dunghoang0401)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook)](https://www.facebook.com/DungHoang04/)
