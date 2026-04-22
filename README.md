@@ -18,7 +18,7 @@
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=giunzz&layout=compact&theme=tokyonight"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giunzz&theme=react-dark&hide_border=true&area=true"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=giunzz&theme=react-dark&hide_border=true&area=true"/> -->
 
 
 ## 🌍 Connect with Me  
